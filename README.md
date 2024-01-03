@@ -1,2 +1,4 @@
 # kadir
-This is my first repository.
+This is first repository.
+</br>
+By Abdul kadir
